@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chaitanya
 
-I build growth systems and products: agents, scrapers and data pipelines that turn public signals (SERPs, AI answers, GitHub activity, hiring posts) into decisions a GTM team can act on. 📍 Based in Bangalore.
+I build growth systems and products: agents, scrapers and data pipelines that turn public signals (SERPs, AI answers, GitHub activity, hiring posts) into decisions a GTM team can act on. 📍 Based in India.
 
 👇 Each project below covers the **problem** it solves, **how** it works, and the **stack** it's built on.
 
