@@ -6,6 +6,15 @@ I build growth systems and products: agents, scrapers and data pipelines that tu
 
 ---
 
+## 🚀 Products
+
+### 🪝 GoHook · 🔗 [app.gohook.dev](https://app.gohook.dev)
+- 🎯 **Problem:** brands don't know where their buyers are asking on Reddit, so competitors answer first and own the conversation.
+- ⚙️ **How it works:** connect Google Search Console and GoHook matches your keywords to live Reddit threads through a knowledge graph. A Reddit Presence Score benchmarks your brand against competitors across subreddits, showing where you're mentioned, where you're missing, and where to show up next. Paste any URL into Ideate and it finds the subreddits already discussing that topic and drafts posts that fit each community's tone.
+- 🧱 **Stack:** Python, FastAPI, React, Vite, Tailwind, OpenAI, Supabase, Vercel.
+
+---
+
 ## 📡 Signal & attribution systems
 
 ### 🕳️ [dark-funnel-decoder](https://github.com/chaitanyagatreddi/dark-funnel-decoder)
